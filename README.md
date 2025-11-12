@@ -13,10 +13,11 @@ I have experience in C++ programming, 3D modeling, and game development. I enjoy
 
 ---
 
-## Projects
+## Favorite Projects So Far
 
-- **Project 1:** Brief description of the project.
-- **Project 2:** Brief description of the project.
+- **Eldritch Dog Generator** Generates an age, then a configurable name for a hypothetical Eldritch dog name.
+    https://github.com/Alexander-png360/Eldritch-Dog-Generator
+- **Hot Dog Cooker** a simple app which calculates how long you should cook your hotdog based on the circumference and length of hotdog and is reported in minutes. Can be ran from the exe file.
 - **Project 3:** Brief description of the project.
 
 ---
