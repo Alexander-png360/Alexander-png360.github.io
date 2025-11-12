@@ -3,10 +3,9 @@
 
 I am a **C++ programmer**, 3D modeler and Game Dev.
 
-Link To My Youtube [Flaws Glass Channel](https://www.youtube.com/@FlawsGlass)
-
 Welcome to my portfolio! Here you'll find projects, experiments, and everything I’ve been working on in C++ and game development.  
 
+Link To My Youtube [Flaws Glass Channel](https://www.youtube.com/@FlawsGlass) Covering development of the game "Flaws Glass"
 ---
 
 ## About Me
