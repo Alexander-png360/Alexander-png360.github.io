@@ -31,13 +31,4 @@ I have about **3** years of solid practice modeling, texturing and rigging, and 
   Simple banking app only works in VS code This was an exercise with a focus on formatting and functionality  
   [GitHub Link](https://github.com/Alexander-png360/SimpleBankingExercise)
 
----
 
-## Contact
-
-Feel free to reach out:  
-- **Email:** alex@example.com  
-- **LinkedIn:** [linkedin.com/in/alex](https://linkedin.com)  
-- **GitHub:** [github.com/alex](https://github.com)  
-
----
